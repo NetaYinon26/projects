@@ -22,15 +22,15 @@ MLOps basics · Bash · Slurm · SQL
 | Project | Tech Stack | Highlight |
 |---------|-----------|-----------|
 | **CIFAR‑10 Classification** <br>[:link: Repo](https://github.com/NetaYinon26/projects/blob/main/deep%20learning%20CIFAR10%20classification.ipynb) | PyTorch · TensorBoard | Achieved 65 % accuracy on test data |
-| **AutoML Ensemble – Smoking Cessation** <br>[:link: Repo](https://github.com/NetaYinon26/projects/blob/main/Ensemble%20autoML%20calssification%20model.ipynb)| FLAML · LightGBM | 0.87 AUC, Top 10 % on Kaggle |
+| **AutoML Ensemble – Smoking Cessation** <br>[:link: Repo](https://github.com/NetaYinon26/projects/blob/main/Ensemble%20autoML%20calssification%20model.ipynb)| AutoML · FLAML · LightGBM · H2O| 0.87 AUC, Top 10 % on Kaggle |
 | **tranfer learning image classification** <br>[:link: Repo](https://github.com/NetaYinon26/projects/blob/main/tranfer%20learning%20image%20classification.ipynb)| Tenserflow · pandas · seaborn · VGG19 · YOLOv5 | transfer learning from Imagenet to classify Oxford 102 Category Flower Dataset |
 
 
 ---
 
 <div align="center">
-  📫 <a href="mailto:yinon.neta@gmail.com">yinon.neta@gmail.com</a> │
-  <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a>
+  📫 <a href="mailto:netayinon@gmail.com">yinon.neta@gmail.com</a> │
+  <a href="https://www.linkedin.com/in/neta-yinon-0a78b1345/">LinkedIn</a>
 </div>
 
 <sub><p align="center">Last updated: Apr 2025</p></sub>
